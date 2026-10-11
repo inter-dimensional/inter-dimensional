@@ -17,8 +17,8 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 
 ## 🕹️ CHARACTER STATS
 
-*   **Class:** Beginner Game Developer 🛠0️⃣
-*   **Current Quest:** Figuring out Object-Oriented Programming (OOP) & 2D game setups.
+*   **Class:** Intermediate Game Developer 🛠0️⃣
+*   **Current Quest:** Moving to Raylib (C/C++)
 *   **Playstyle:** Heavy trial-and-error. I learn best by reading documentation, manually typing out code, and intentionally breaking scripts to understand what each line actually does.
 *   **Passives:** 
     *   ⚡ **Spotting Bugs:** Fast at tracking typos and minor logic blocks when things crash.
@@ -30,24 +30,14 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 
 ### ⚔️ Languages I'm Practicing
 *   **Python:** The language I'm currently using at school and for basic logic exercises.
-*   **GDScript:** What I use to test out movement and node mechanics inside Godot.
-*   **Java, C#, & C++:** Languages I'm studying independently to understand syntax rules.
+C++:** Languages I'm studying for Game Development
 
 ### 🛠️ Software & Environments
 *   **Notepad++ & CMD:** My preferred lightweight text editor to type scripts manually and run them directly through the command line.
 *   **Godot Engine (3.5.3):** Using it to learn how scenes, nodes, and positions link together in 2D.
 *   **Pygame Library:** Helping me understand how a raw game loop handles rectangle updates and inputs.
 *   **Adobe Photoshop CS3:** For editing text layouts or quick image modifications.
-
----
-
-## 🏆 QUEST LOG (MY PRACTICE PROJECTS)
-
-### 🟩 Flappy Bird Clone (Godot 3.5.3) — `[WIP]`
-*   *What I'm learning:* Pacing delta-time formulas, random pipe generation, and managing separate scripts for clean repository storage.
-
-### 🚀 Alien Invasion (Pygame) — `[WIP]`
-*   *What I'm learning:* Putting textbook OOP theories into practice by tracking screen boundaries, input arrays, and moving objects.
+*   **Raylib:** Transitioning to low level game development 
 
 ---
 
