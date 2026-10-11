@@ -17,7 +17,7 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 
 ## 🕹️ CHARACTER STATS
 
-*   **Class:** Intermediate Game Developer 🛠0️⃣
+*   **Class:** Advance Beginner Game Developer 🛠0️⃣
 *   **Current Quest:** Moving to Raylib (C/C++)
 *   **Playstyle:** Heavy trial-and-error. I learn best by reading documentation, manually typing out code, and intentionally breaking scripts to understand what each line actually does.
 *   **Passives:** 
