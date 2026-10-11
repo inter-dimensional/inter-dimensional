@@ -30,7 +30,7 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 
 ### ⚔️ Languages I'm Practicing
 *   **Python:** The language I'm currently using at school and for basic logic exercises.
-C++:** Languages I'm studying for Game Development
+*   **C++:** Languages I'm studying for Game Development
 
 ### 🛠️ Software & Environments
 *   **Notepad++ & CMD:** My preferred lightweight text editor to type scripts manually and run them directly through the command line.
