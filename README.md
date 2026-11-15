@@ -7,7 +7,7 @@
 
 ## My real name is Elijah!
 
-I am a first-year college student learning the fundamentals of programming. My dream is to work my way up to major game studios like **Valve, Capcom, and Rockstar** one day. Right now, I'm ignoring the flashy design stuff and focusing entirely on learning how game loops, code logic, and basic game mechanics function behind the scenes. 
+My dream is to work in **Valve. Right now, I'm ignoring the flashy design stuff and focusing entirely on learning how game loops, code logic, and basic game mechanics function behind the scenes. 
 
 I use this GitHub to document my progress, keep track of my scripts, and log my practice runs.
 
